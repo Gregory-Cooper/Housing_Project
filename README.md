@@ -2,9 +2,9 @@
  Won 2022 Housing Affordability Case Challenge among 140+ AI &amp; DS interns : Used PCA and KMeans to build interpretable model of housing market
 ##Project Description
 
- -Explored Zillow Data to approximate practical housing price index distributions using Principle Component Analysis (PCA) and K-Means clustering
- -Instead of simply splitting the data into income segments arbitrarily, we performed these steps so that the data would tell us the objective story
- -Graphed the principle components on latitude-longitude plots to confirm that the cluster data locations followed actual housing price density maps
+ - Explored Zillow Data to approximate practical housing price index distributions using Principle Component Analysis (PCA) and K-Means clustering
+ - Instead of simply splitting the data into income segments arbitrarily, we performed these steps so that the data would tell us the objective story
+ - Graphed the principle components on latitude-longitude plots to confirm that the cluster data locations followed actual housing price density maps
  -Generated a pricing index similar to HPI for each cluster based on the relevant mortgage data
  -Decomposed this index by AGI (Adjusted Gross Income) stubs in order to verify that each mortgage data cluster actually represented a different homebuyer segment
  -Leveraged mortgage data to examine the distribution of AGI stubs in each cluster to verify that the population of homebuyers in each cluster represented different income segments
